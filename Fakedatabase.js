@@ -15,6 +15,8 @@ const { readFileSync, writeFileSync } = require("fs");
 const { resolve } = require("path");
 const weth = require('./UniswapV2Library')
 
+// tokens
+
 let tokensTosell = [
   {
     name: "usdc",
