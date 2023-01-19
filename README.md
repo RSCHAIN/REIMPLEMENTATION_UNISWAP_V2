@@ -16,6 +16,8 @@ Et c'est seulement la réalisation de la partie back-end.
 * Avoir des connaissances sur la blockchain et les cryptomonnaies.
 
 * Installation Node JS
+* Installation du module fs de Node JS
+* Installation du module Prompt de Node JS
 
 ## Fonctionnement
 
@@ -29,6 +31,13 @@ Une fois le choix effectué,
 
 
 À la suite, les montants equivaut suite aux échanges sont affichés et ajoutés aux comptes correspondant.
+
+## Exécution du projet
+Assurez d'avoir bien installez node Js. 
+
+Ainsi dans votre terminal, il vous suffira de faire : 
+
+*node (le nom du fichier principal), ici UniswapV2Library.js, Entrez et le programme est lancé.
 
 ## Etat du projet
 Le projet est encore en développement.
