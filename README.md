@@ -1,43 +1,43 @@
 # REIMPLEMENTATION_UNISWAP_V2
 
 
-Cette application été mise en place pour permettre les échanges de cryptomonnaies en local.
-C'est en quelque sorte une copie du projet Uniswap.
-Elle a été mise en place a partir des fonctions de base du projet réel.
-Et c'est seulement la réalisation de la partie back-end.
+This application was set up to allow local cryptocurrency exchanges. It is a kind of copy of the Uniswap project. It has been implemented from the basic functions of the real project. And this is only the realization of the back-end part.
 
-## Technoloigie
+## Technoloigy
 
 *Javascript
 
 *Node JS
 
-## Prerequis
-* Avoir des connaissances sur la blockchain et les cryptomonnaies.
+## Prerequisites
 
-* Installation Node JS
-* Installation du module fs de Node JS
-* Installation du module Prompt de Node JS
+* Knowledge of blockchain and cryptocurrencies.
 
-## Fonctionnement
+* Installation of Node JS
 
-*Faire le choix entre la vente et l'achat de tokens.
+* Installation of the fs module of Node JS
 
-Une fois le choix effectué,
+* Installation of the Prompt module of Node JS
 
-*Entrez le token que l'on souhaite echanger(acheter ou vendre) et celui souhaité recevoir.
+## How it works
 
-*Entrez le montant d'entré ou le montant de sortir.
+*Make a choice between buying and selling tokens.
 
+Once the choice is made,
 
-À la suite, les montants equivaut suite aux échanges sont affichés et ajoutés aux comptes correspondant.
+*Enter the token you want to exchange (buy or sell) and the one you want to receive.
 
-## Exécution du projet
-Assurez d'avoir bien installez node Js. 
+*Enter the amount of entry or the amount of exit.
 
-Ainsi dans votre terminal, il vous suffira de faire : 
+Then, the amounts equivocal following the exchanges are displayed and added to the corresponding accounts.
 
-*node (le nom du fichier principal), ici UniswapV2Library.js, Entrez et le programme est lancé.
+## Execution of the project
 
-## Etat du projet
-Le projet est encore en développement.
+Make sure you have node Js installed.
+
+So in your terminal, you will just have to do :
+
+*node (the name of the main file), here UniswapV2Library.js, Enter and the program is launched.
+
+## Status of the project
+The project is still under development.
